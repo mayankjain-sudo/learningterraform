@@ -109,7 +109,7 @@ resource "azurerm_virtual_machine" "vm" {
     os_profile {
         computer_name  = "myTFVM"
         admin_username = "mayank"
-        admin_password = "Password1234!"
+        admin_password = "testyou" # Not recommended
     }
 
     os_profile_linux_config {
