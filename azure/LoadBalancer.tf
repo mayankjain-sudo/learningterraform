@@ -2,7 +2,7 @@
 provider "azurerm" {
   # whilst the `version` attribute is optional, we recommend pinning to a given version of the Provider
   version = "=1.38.0"
-  subscription_id = "212c8164-b331-44f3-9432-437a8a27edf6"
+  subscription_id = "xxxxxxxxxxxxxxxxxx"
 }
 
 variable "prefix" {
