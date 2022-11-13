@@ -8,3 +8,11 @@
 # terraform output variableName
 # terraform refresh   // It modified the state file only
 # terraform graph
+# terraform state list
+# terraform state show
+# terraform taint
+# terraform untaint
+# terraform import <resource_type>.<resource_name> <attributes>
+# terraform workspace new projectname
+# terraform workspace list
+# terraform workspace select workspacename
